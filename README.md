@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-![Imagem de capa](/assets/img/capaREADME.png)
-=======
 
->>>>>>> c5c5f1e2562d51f3ce7312649de98921f843201f
+![Imagem de capa](/assets/img/capaREADME.png)
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # EVFINDER
 **Descrição:**
