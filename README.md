@@ -1,5 +1,3 @@
-:construction: Projeto em construção :construction:
-
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 ![Imagem de capa](/assets/img/capaREADME.gif)
 # EVFINDER
